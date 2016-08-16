@@ -1,5 +1,5 @@
-# Purescript-pux-rescources
-purescript rescources
+
+# purescript rescources
 
 
 Purescript - FFI playground
