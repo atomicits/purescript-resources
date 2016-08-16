@@ -2,6 +2,10 @@
 # purescript rescources
 
 
+Purescript Pux Strater App
+https://github.com/afcondon/pux-starter-app/tree/master/src
+
+
 Purescript - FFI playground
 
 https://github.com/damncabbage/ylj16-workshop/tree/master/04%20FFI%20Playground
